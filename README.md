@@ -16,11 +16,11 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Developer's Best Practices
-[ ] Introduction
-[ ] What is Practice?
-[ ] Code Reading & Reading
-[ ] Documentation is the Key
-[ ] Follow the Standards
+[x] Introduction
+[x] What is Practice?
+[x] Code Reading & Reading
+[x] Documentation is the Key
+[x] Follow the Standards
 [ ] Write to be Reviewed
 [ ] Testing is the Religion
 [ ] Keep the Assets Safely
